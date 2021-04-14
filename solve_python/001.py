@@ -24,4 +24,5 @@ def meguru_bisect(ng, ok):
         else:
             ng = mid # 小さくしなければいけない
     return ok
+
 print(meguru_bisect(l + 1, -1))
