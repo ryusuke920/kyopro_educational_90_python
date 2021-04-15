@@ -1,6 +1,7 @@
 import sys
 input = sys.stdin.readline
 import math
+
 n, m = map(int,input().split())
 x, y, r = [0] * (n + m), [0] * (n + m), [0] * n
 for i in range(n):
@@ -14,7 +15,7 @@ for i in range(n + m):
         if i <= n - 1 and j <= n - 1: continue # nどうし
         if i <= n - 1 and j >= n: # nとmのペア
             a.add(abs(math.sqrt((x[i] - x[j]) ** 2 + (y[i] - y[j]) ** 2) - r[i]))
-        if i >= n and j >= n:# mどうし
+        if i >= n and j >= n: # mどうし
             a.add(math.sqrt((x[i] - x[j]) ** 2 + (y[i] - y[j]) ** 2) / 2)
 
 if len(a) == 0:
