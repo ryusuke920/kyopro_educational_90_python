@@ -14,3 +14,8 @@
 |[008](https://github.com/E869120/kyopro_educational_90/blob/main/problem/008.jpg)|#|[editorial008](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/008.jpg)|[008 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/solve_python/008.py)|
 |[009](https://github.com/E869120/kyopro_educational_90/blob/main/problem/009.jpg)|#|[editorial009](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/009.jpg)|[009 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/solve_python/009.py)|
 |[010](https://github.com/E869120/kyopro_educational_90/blob/main/problem/010.jpg)|#|[editorial0010](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/010.jpg)|[010 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/solve_python/010.py)|
+
+## 類題
+|問題文|アルゴリズム・内容|解説|解答 （Python）|
+|:--:|:--:|:--:|:--:|
+|[001_01](https://atcoder.jp/contests/s8pc-5/tasks/s8pc_5_b)|数学・二分探索|[editorial001](https://img.atcoder.jp/s8pc-5/editorial.pdf)|[001_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/001_1.py)|
