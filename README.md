@@ -23,8 +23,8 @@
 |[017](https://github.com/E869120/kyopro_educational_90/blob/main/problem/017.jpg)|#|[editorial017](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/017.jpg)|[017 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/solve_python/017.py)|
 
 ## 類題
-|問題文|アルゴリズム・内容|解説|解答 （Python）|
-|:--:|:--:|:--:|:--:|
-|[001_01 ABC023-D - 射撃王](https://atcoder.jp/contests/abc023/tasks/abc023_d)|数学・二分探索|[editorial001_01](https://www.slideshare.net/chokudai/abc023)|[001_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/001_01.py)|
-|[001_02 square869120Contest #5-B - Emblem](https://atcoder.jp/contests/s8pc-5/tasks/s8pc_5_b)|二分探索|[editorial001_02](https://img.atcoder.jp/s8pc-5/editorial.pdf)|[001_02 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/001_02.py)|
-|[002_01 ABC190-C - Bowls and Dishes](https://atcoder.jp/contests/abc190/tasks/abc190_c)|二分探索|[editorial002_01](https://atcoder.jp/contests/abc190/editorial/626)|[002_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/002_01.py)|
+|問題番号|問題名|アルゴリズム・内容|解説|解答 （Python）|
+|:--:|:--:|:--:|:--:|:--:|
+|001_01|[ABC023-D - 射撃王](https://atcoder.jp/contests/abc023/tasks/abc023_d)|数学・二分探索|[editorial001_01](https://www.slideshare.net/chokudai/abc023)|[001_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/001_01.py)|
+|001_02|[square869120Contest #5-B - Emblem](https://atcoder.jp/contests/s8pc-5/tasks/s8pc_5_b)|数学・二分探索|[editorial001_02](https://img.atcoder.jp/s8pc-5/editorial.pdf)|[001_02 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/001_02.py)|
+|002_01|[ABC190-C - Bowls and Dishes](https://atcoder.jp/contests/abc190/tasks/abc190_c)|二分探索|[editorial002_01](https://atcoder.jp/contests/abc190/editorial/626)|[002_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/002_01.py)|
