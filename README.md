@@ -25,4 +25,5 @@
 ## 類題
 |問題文|アルゴリズム・内容|解説|解答 （Python）|
 |:--:|:--:|:--:|:--:|
-|[001_01](https://atcoder.jp/contests/s8pc-5/tasks/s8pc_5_b)|数学・二分探索|[editorial001](https://img.atcoder.jp/s8pc-5/editorial.pdf)|[001_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/001_1.py)|
+|[001_01 square869120Contest #5-B - Emblem](https://atcoder.jp/contests/s8pc-5/tasks/s8pc_5_b)|数学・二分探索|[editorial001_01](https://img.atcoder.jp/s8pc-5/editorial.pdf)|[001_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/001_1.py)|
+|[002_01 ABC190-C - Bowls and Dishes](https://atcoder.jp/contests/abc190/tasks/abc190_c)|二分探索|[editorial002_01](https://atcoder.jp/contests/abc190/editorial/626)|[002_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/002_01.py)|
