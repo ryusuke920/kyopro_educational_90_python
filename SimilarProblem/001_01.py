@@ -1,27 +1,26 @@
-import sys
-input = sys.stdin.readline
-import math
-
-n, m = map(int,input().split())
-x, y, r = [0] * (n + m), [0] * (n + m), [0] * n
+n = int(input())
+h = [0]*n
+s = [0]*n
 for i in range(n):
-    x[i], y[i], r[i] = map(int,input().split())
-for i in range(m):
-    x[i + n], y[i + n] = map(int,input().split())
+    h[i], s[i] = map(int,input().split())
 
-a = set()
-for i in range(n + m):
-    for j in range(n + m):
-        if i <= n - 1 and j <= n - 1: continue # nどうし
-        if i <= n - 1 and j >= n: # nとmのペア
-            a.add(abs(math.sqrt((x[i] - x[j]) ** 2 + (y[i] - y[j]) ** 2) - r[i]))
-        if i >= n and j >= n: # mどうし
-            a.add(math.sqrt((x[i] - x[j]) ** 2 + (y[i] - y[j]) ** 2) / 2)
+def is_ok(x):
+    l = []
+    for i in range(n):
+        l.append((x - h[i])//s[i]) # この時間までに割らなきゃいけない
+    l.sort() # 小さいものから割る
+    for j in range(n):
+        if (l[j] < j):
+            return False # アウトー
+    return True
 
-if len(a) == 0:
-    print(min(r))
-else:
-    a = list(a)
-    a.sort()
-    a = a[1:]
-    print(min(a))
+def meguru_bisect(ng, ok):
+    while (abs(ok - ng) > 1):
+        mid = (ok + ng) // 2
+        if is_ok(mid):
+            ok = mid
+        else:
+            ng = mid
+    return ok
+
+print (meguru_bisect(0, 10**18))
