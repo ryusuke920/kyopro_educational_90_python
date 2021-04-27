@@ -1,3 +1,4 @@
+n = int(input())
 s = input()
 mod = 10 ** 9 + 7
 a = at = atc = atco = atcod = atcode = atcoder = 0
@@ -16,5 +17,5 @@ for i in s:
         atcode += atcod
     elif i == "r":
         atcoder += atcode
-    print(i,a,at,atc,atco,atcod,atcode,atcoder)
-print(atcoder)
+
+print(atcoder % mod)
