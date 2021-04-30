@@ -4,7 +4,7 @@
 ## 概要
 |問題文 (AtCoderのサイトへ飛びます)|アルゴリズム・内容|解説|解答 （Python）|
 |:--:|:--:|:--:|:--:|
-|[001 - Yokan Party（★4）](https://atcoder.jp/contests/typical90/tasks/typical90_a)|二分探索|[editorial001](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/001.jpg)|[001 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/solve_python/001.py)|
+|[001 - Yokan Party（★4）](https://atcoder.jp/contests/typical90/tasks/typical90_a){:target="_blank"}|二分探索|[editorial001](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/001.jpg)|[001 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/solve_python/001.py)|
 |[002 - Encyclopedia of Parentheses（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_b)|bit全探索|[editorial002](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/002.jpg)|[002 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/solve_python/002.py)|
 |[003 - Longest Circular Road（★4）](https://atcoder.jp/contests/typical90/tasks/typical90_c)|ダイクストラ法・DFS・BFS|[editorial003](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/003.jpg)|[003 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/solve_python/003.py)|
 |[004 - Cross Sum（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_d)|累積和・前処理・包除原理|[editorial004](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/004.jpg)|[004 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/solve_python/004.py)|
