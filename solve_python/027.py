@@ -1,5 +1,5 @@
 n = int(input())
-name,ans = set(), []
+name, ans = set(), []
 for i in range(n):
     s = input()
     if s not in name:
