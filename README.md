@@ -59,38 +59,19 @@
 |005_07|[ABC009-D - 漸化式](https://atcoder.jp/contests/abc009/tasks/abc009_4)|#|[editorial005-07](https://www.slideshare.net/chokudai/abc009)|[005_07 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/005_07.py)|
 |005_08|[s8pc #6 F - Random Shuffles](https://atcoder.jp/contests/s8pc-6/tasks/s8pc_6_f?lang=ja)|#|[editorial005-08](https://img.atcoder.jp/s8pc-6/editorial.pdf)|[005_08 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/005_08.py)|
 |005_09|[TDPC-T - フィボナッチ](https://atcoder.jp/contests/tdpc/tasks/tdpc_fibonacci)|#|[editorial005-09](#)|[005_09 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/005_09.py)|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
+|006_01|[ABC076-C - Dubious Document 2](https://atcoder.jp/contests/abc076/tasks/abc076_c)|#|[editorial006-01](https://img.atcoder.jp/abc076/editorial.pdf)|[006_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/006_01.py)|
+|006_02|[ABC009-C - 辞書式順序ふたたび](https://atcoder.jp/contests/abc009/tasks/abc009_3)|#|[editorial006-02](https://www.slideshare.net/chokudai/abc009)|[006_02 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/006_02.py)|
+|006_03|[JOI 2021 春合宿-J - イベント巡り 2(Event Hopping 2)](https://www.ioi-jp.org/camp/2021/2021-sp-tasks/day4/event2.pdf)|#|[editorial006-03](https://www.ioi-jp.org/camp/2021/2021-sp-tasks/day4/event2-review.pdf)|[006_03 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/006_03.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
