@@ -50,7 +50,6 @@
 |003_02|[ABC019-D - 高橋くんと木の直径](https://atcoder.jp/contests/abc019/tasks/abc019_4)|#|[editorial003_02](https://www.slideshare.net/chokudai/abc019)|[003_02 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/003_02.py)|
 |004_01|[ABC129-D - Lamp](https://atcoder.jp/contests/abc129/tasks/abc129_d)|#|[editorial004_01](https://img.atcoder.jp/abc129/editorial.pdf)|[004_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/004_01.py)|
 |004_02|[ARC077-D - 11](https://atcoder.jp/contests/arc077/tasks/arc077_b)|#|[editorial004_02](https://img.atcoder.jp/arc077/editorial.pdf)|[004_02 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/004_02.py)|
-
 |005_01|[ABC195-E -Lucky 7 Battle](https://atcoder.jp/contests/abc195/tasks/abc195_e)|#|[editorial005-01](https://atcoder.jp/contests/abc195/editorial/886)|[005_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/005_01.py)|
 |005_02|[JOI 2019 二次予選-D - テンキー (Tenkey)](https://atcoder.jp/contests/joi2020yo2/tasks/joi2020_yo2_d)|#|[editorial005-02](https://www.ioi-jp.org/joi/2019/2020-yo2/2020-yo2-t4-review.html)|[005_02 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/005_02.py)|
 |005_03|[大手前プロコン 2019-D - FizzBuzz (FizzBuzz)](https://atcoder.jp/contests/otemae2019/tasks/otemae2019_d)|#|[editorial005-03](https://img.atcoder.jp/otemae2019/editorial-D.pdf)|[005_03 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/005_03.py)|
@@ -61,8 +60,6 @@
 |005_07|[ABC009-D - 漸化式](https://atcoder.jp/contests/abc009/tasks/abc009_4)|#|[editorial005-07](https://www.slideshare.net/chokudai/abc009)|[005_07 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/005_07.py)|
 |005_08|[s8pc #6 F - Random Shuffles](https://atcoder.jp/contests/s8pc-6/tasks/s8pc_6_f?lang=ja)|#|[editorial005-08](https://img.atcoder.jp/s8pc-6/editorial.pdf)|[005_08 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/005_08.py)|
 |005_09|[TDPC-T - フィボナッチ](https://atcoder.jp/contests/tdpc/tasks/tdpc_fibonacci)|#|[editorial005-09](#)|[005_09 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/005_09.py)|
-
-
 |000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
 |000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
 |000_01|[]()|#|[editorial000-01]()|[000_01 (Python)]()|
