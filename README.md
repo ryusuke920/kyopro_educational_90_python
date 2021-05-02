@@ -67,6 +67,51 @@
 |008_01|[DDCC2019本選D - DISCO!](https://atcoder.jp/contests/ddcc2019-final/tasks/ddcc2019_final_d)|#|[editorial008-01](https://img.atcoder.jp/ddcc2019-final/editorial.pdf)|[008_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/008_01.py)|
 |008_02|[ABC159-F - Knapsack for All Segments](https://atcoder.jp/contests/abc159/tasks/abc159_f)|#|[editorial008-02](https://img.atcoder.jp/abc159/editorial.pdf)|[008_02 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/008_02.py)|
 |008_03|[みんなのプロコン2019 D - Ears](https://atcoder.jp/contests/yahoo-procon2019-qual/tasks/yahoo_procon2019_qual_d)|#|[editorial008-03](https://img.atcoder.jp/yahoo-procon2019-qual/editorial.pdf)|[008_03 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/008_03.py)|
+|009_01|[JOI 2016 本選2-B - スタンプラリー ２ (Collecting Stamps 2)](https://atcoder.jp/contests/joi2016ho/tasks/joi2016ho_b)|#|[editorial009-01](https://www.ioi-jp.org/joi/2015/2016-ho/2016-ho-t2-review.pdf)|[009_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/009_01.py)|
+|009_02|[ABC033-D - 三角形の分類](https://atcoder.jp/contests/abc033/tasks/abc033_d)|#|[editorial009-02](https://www.slideshare.net/chokudai/abc033)|[009_02 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/009_02.py)|
+|009_03|[ABC139-F - Engines](https://atcoder.jp/contests/abc139/tasks/abc139_f)|#|[editorial009-03](https://img.atcoder.jp/abc139/editorial.pdf)|[009_03 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/009_03.py)|
+|009_04|[yukicoder No.1144 Triangles](https://yukicoder.me/problems/no/1144)|#|[editorial009-04](https://yukicoder.me/problems/no/1144/editorial)|[009_04 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/009_04.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
 |000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
 |000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
 |000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
