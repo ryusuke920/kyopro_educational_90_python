@@ -25,7 +25,6 @@ for i in permutations([i for i in range(n)]):
     if Bool:
         for j in range(n):
             cnt += a[i[j]][j]
-        
         ans = min(ans, cnt)
 
 if ans == 10 ** 18:
