@@ -105,9 +105,9 @@
 |011_04|[DP まとめコンテスト-X - Tower](https://atcoder.jp/contests/dp/tasks/dp_x)|#|[editorial011-04](https://kyopro-friends.hatenablog.com/entry/2019/01/12/231106)|[011_04 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/011_04.py)|
 |011_05|[ARC042-C - おやつ](https://atcoder.jp/contests/arc042/tasks/arc042_c)|#|[editorial011-05](https://www.slideshare.net/chokudai/arc042)|[011_05 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/011_05.py)|
 |011_06|[CODE FESTIVAL 2017 Final-D - Zabuton](https://atcoder.jp/contests/cf17-final/tasks/cf17_final_d)|#|[editorial011-06](https://img.atcoder.jp/cf17-final/editorial.pdf)|[011_06 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/011_06.py)|
-|012_01|[]()|#|[editorial012-01]()|[012_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
-|000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
+|012_01|[ATC001-B - Union Find](https://atcoder.jp/contests/atc001/tasks/unionfind_a)|Union Find|[editorial012-01](https://atcoder.jp/contests/atc001/editorial)|[012_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/012_01.py)|
+|012_02|[ABC075-C - Bridge](https://atcoder.jp/contests/abc075/tasks/abc075_c)|ダイクストラ法|[editorial012-02](https://atcoder.jp/contests/abc075/editorial/625)|[012_02 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/012_02.py)|
+|012_03|[第四回 アルゴリズム実技検定-G - 村整備](https://atcoder.jp/contests/past202010-open/tasks/past202010_g)|#|[editorial012-03](https://atcoder.jp/contests/past202010-open/editorial/305)|[012_03 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/012_03.py)|
 |000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
 |000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
 |000_01|[]()|#|[editorial000-01]()|[000_01 (Python)](https://github.com/ryusuke920/kyopro_educational_90_python/blob/main/SimilarProblem/000_01.py)|
