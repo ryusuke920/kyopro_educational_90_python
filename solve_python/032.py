@@ -14,7 +14,7 @@ for i in range(m):
 
 ans = 10 ** 18
 
-for i in permutations([i for i in range(n)]):
+for i in permutations(range(n)):
     Bool = True
     for j in range(n - 1):
         if not grid[i[j]][i[j + 1]]:
