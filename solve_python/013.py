@@ -23,8 +23,8 @@ n, m = map(int,input().split())
 g = [[] for _ in range(n)]
 for i in range(m):
     a, b, c = map(int,input().split())
-    g[a - 1].append([b - 1, c])
-    g[b - 1].append([a - 1, c])
+    g[a - 1].append((b - 1, c))
+    g[b - 1].append((a - 1, c))
 
 x = dijkstra(0, g)
 y = dijkstra(n - 1, g)
