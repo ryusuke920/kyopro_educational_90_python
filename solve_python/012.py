@@ -25,7 +25,7 @@ q = int(input())
 
 par = [i for i in range(h * w + 2)]
 grid = [[False] * (w + 2) for _ in range(h + 2)]
-d = [[-1, 0], [1, 0], [0, -1], [0, 1]] # ４方向に対する変化量
+d = [(-1, 0), (1, 0), (0, -1), (0, 1)] # ４方向に対する変化量
 
 for i in range(q):
     a = list(map(int,input().split()))
