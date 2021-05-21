@@ -1,7 +1,7 @@
 n = int(input())
-a = sorted(list(map(int,input().split())))
-b = sorted(list(map(int,input().split())))
-c = sorted(list(map(int,input().split())))
+a = list(map(int,input().split()))
+b = list(map(int,input().split()))
+c = list(map(int,input().split()))
 
 cnt_a , cnt_b, cnt_c = [0] * 46, [0] * 46, [0] * 46
 
