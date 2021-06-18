@@ -1,11 +1,3 @@
-def EightToTen(x: int) -> int:
-    "8進数を10進数に変換する"
-    num = 0
-    x = str(x)[::-1]
-    for i in range(len(x)):
-        num += int(x[i]) * 8 ** i
-    return num
-
 def DeciamlToNine(num):
     "10進数を9進数に変換する"
     nine_number = ""
@@ -20,7 +12,7 @@ if n == 0:
 eight_number = n
 for i in range(k):
     # 8進数を10進数に変換する
-    a = EightToTen(eight_number)
+    a = int(str(eight_number), 8)
 
     # 10進数を9進数に変換する
     b = DeciamlToNine(a)
