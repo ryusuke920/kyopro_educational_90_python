@@ -17,7 +17,6 @@ def dfs(u: int, par: int) -> None:
 size = [1] * n
 dfs(0, -1)
 
-print(size)
 ans = 0
 for i in range(n):
     ans += size[i] * (n - size[i])
