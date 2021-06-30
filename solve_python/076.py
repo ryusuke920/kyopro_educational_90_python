@@ -15,7 +15,7 @@ for i in range(n - 1):
     x.append(a[i + 1] + x[-1])
     y.append(a[-2 - i] + y[-1])
 
-for i in range(n):    
+for i in range(n):
     # 目的の大きさと一致した場合
     if x[i] == num:
         exit(print("Yes"))
