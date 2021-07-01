@@ -1,4 +1,4 @@
-from itertools import combinations, permutations
+from itertools import combinations
 
 n, m, p, q, r = map(int,input().split())
 score = [[0] * m for _ in range(n)]
