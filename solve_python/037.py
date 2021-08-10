@@ -14,5 +14,4 @@ for i in range(n):
                     dp[j + r] = max(dp[j] + v, dp[j + r])
                 elif w <= j + r:
                     dp[w] = max(dp[j] + v, dp[w])
-
 print(dp[w])
