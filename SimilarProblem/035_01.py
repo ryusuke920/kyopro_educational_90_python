@@ -11,12 +11,8 @@ for i in range(n - 1):
 # money[i] := 社員 i の給料
 money = [0] * (n + 1)
 for i in reversed(range(1, n + 1)):
-    # 部下がいない場合
     if len(g[i]) == 0:
         money[i] = 1
-    elif len(g[i]) == 1:
-        child = g[i][0]
-        money[i] = money[child] * 2 + 1
     else:
         children = []
         for child in g[i]:
