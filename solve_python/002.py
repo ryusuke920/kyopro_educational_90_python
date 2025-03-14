@@ -21,6 +21,5 @@ if n % 2 == 0: # 奇数のときは正しいカッコ列を生成できない
                 x = word.replace("0", "(")
                 y = x.replace("1", ")")
                 ans.append(y)
-
 ans.sort()
 print(*ans ,sep = "\n")
