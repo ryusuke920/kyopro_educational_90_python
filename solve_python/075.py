@@ -23,5 +23,4 @@ else:
         if num <= 2 ** i:
             break
         i += 1
-        ans = 2 ** i
     print(i)
